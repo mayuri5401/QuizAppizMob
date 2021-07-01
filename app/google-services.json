@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633235644814",
+    "project_id": "quizmob5401",
+    "storage_bucket": "quizmob5401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633235644814:android:45b5be5d5ccc258e4584df",
+        "android_client_info": {
+          "package_name": "com.example.quizmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633235644814-83bt5f4q0a729m8qkbmdae09epiv9ecl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizmob",
+            "certificate_hash": "08b830f9519913a39c44daf380e09c85f2fe72a3"
+          }
+        },
+        {
+          "client_id": "633235644814-e8mlg5qknl4sa38a7s093rb3kof5k995.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9m_DHuo82XW_zmk0qLDDFM1nDFuub7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633235644814-e8mlg5qknl4sa38a7s093rb3kof5k995.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
